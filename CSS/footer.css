@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+
+#footer {
+	background-color: #cdcb02;
+	float: left;
+	height: 120px;
+	width: 1000px;
+	color:#FFF;
+}
+#copy {
+	font-family: "Wolf in the City", "MS Outlook";
+	font-size: 27px;
+	color: #FFF;
+	text-align: center;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#copy a {
+	color: #FFF;
+}
+#copy a:link {
+	text-decoration: underline;
+}
+#copy a:hover {
+	color: #15555a;
+	text-decoration: underline;
+}
+
+#copy a:active {
+	font-size: 25px;
+	color: #FFF;
+	text-decoration: none;
+}
